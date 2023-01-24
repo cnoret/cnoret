@@ -12,4 +12,4 @@
 </p>
 
 <h3 align="left">Tools and Languages :</h3>
-<p align="left"></a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/cnoret/Portfolio/blob/main/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/cnoret/Portfolio/blob/main/images/python-original.svg" alt="python" width="40" height="40"/></a></p>
+<p align="left"></a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/cnoret/cnoret/blob/main/images/SQL.png" alt="mysql" width="40" height="40"/> </a></a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/cnoret/Portfolio/blob/main/images/python-original.svg" alt="python" width="40" height="40"/></a></p>
