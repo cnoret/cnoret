@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Christophe Noret</h1>
-<h3 align="center">A passionate Data Analayst aspirant from France !</h3>
+<h3 align="center">A passionate Data Analyst aspirant from France !</h3>
 
 
 - 🌱 I’m currently learning **Python & SQL**
