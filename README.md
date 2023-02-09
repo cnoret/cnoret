@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Analyst aspirant from France !</h3>
 
 
-- 🌱 I’m currently learning **Python & SQL**
+- 🌱 I’m currently learning **Python**
 
 <h3 align="left">You can also find me on :</h3>
 <p align="left">
@@ -12,4 +12,7 @@
 </p>
 
 <h3 align="left">Tools and Languages :</h3>
-<p align="left"></a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/cnoret/cnoret/blob/main/images/SQL.png" alt="mysql" width="40" height="40"/> </a></a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/cnoret/Portfolio/blob/main/images/python-original.svg" alt="python" width="40" height="40"/></a></p>
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/cnoret/cnoret/blob/main/images/SQL.png" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://github.com/cnoret/Portfolio/blob/main/images/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/cnoret/cnoret/blob/main/images/git-256.png" alt="Git" width="40" height="40"/></a>
