@@ -1,9 +1,6 @@
 <h1 align="center">Hi there 👋, my name is Christophe Noret</h1>
 <h3 align="center">A passionate Data Analyst aspirant from France !</h3>
 
-
-- 🌱 I’m currently learning **Python**
-
 <h3 align="left">You can also find me on :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cnoret" target="blank"><img align="center" src="https://github.com/cnoret/Portfolio/blob/main/images/linked-in-alt.svg" alt="sachin7409" height="30" width="40" /></a>
