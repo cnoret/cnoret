@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, my name is Christophe Noret</h1>
+<h1 align="center">Hi 👋, I'm Christophe Noret</h1>
 <h3 align="center">A passionate Data Analyst from France !</h3>
 
 <h3 align="left">You can also find me on :</h3>
