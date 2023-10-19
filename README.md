@@ -4,7 +4,7 @@
 
 ``` 
  - 🔭 I am currently training as a Data Analyst at Datascientest.com !
- - 🌱 I'm currently learning Microsoft PowerBI and Tableau Software
+ - 🌱 I'm currently learning Microsoft PowerBI
  - 👯 I'm looking to collaborate on projects
  - 💬 Ask me about Data stuff, Business Intelligence or...Gaming !
  - ⚡ Fun fact: I have a broken sense of humor !
