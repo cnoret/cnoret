@@ -9,14 +9,6 @@
  - 💬 Ask me about Data stuff, Business Intelligence or...Gaming !
  - ⚡ Fun fact: I have a broken sense of humor !
 ```
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/cnoret" target="blank"><img align="center" src="https://github.com/cnoret/Portfolio/blob/main/images/linked-in-alt.svg" alt="sachin7409" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/christophenoret" target="blank"><img align="center" src="https://github.com/cnoret/Portfolio/blob/main/images/kaggle.svg" alt="sstarlord" height="30" width="40" /></a>
-</p>
-<br />
 <h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 
 <p align="left"> 
