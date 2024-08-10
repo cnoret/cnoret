@@ -1,13 +1,12 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, I'm Christophe Noret.</h1>
 <br />
-<h3 >I'm a passionate Data Analyst from France !</h3>
+<h3 >I'm a data science and python enthusiast from France !</h3>
 
 ``` 
- - 🔭 I am currently training as a Data Analyst at Datascientest.com !
+ - 🔭 Former student data analyst @ DataScientest.com !
  - 🌱 I'm currently learning Microsoft PowerBI
  - 👯 I'm looking to collaborate on projects
  - 💬 Ask me about Data stuff, Business Intelligence or...Gaming !
- - ⚡ Fun fact: I have a broken sense of humor !
 ```
 <h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 
