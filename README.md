@@ -3,7 +3,7 @@
 <h3 >I'm a data science and python enthusiast from France !</h3>
 
 ``` 
- - 🔭 Former student data analyst @ DataScientest.com & @ Jedha !
+ - 🔭 Former student data analyst @ DataScientest.com and @ Jedha !
  - 🌱 I'm currently learning Microsoft PowerBI
  - 👯 I'm looking to collaborate on projects
  - 💬 Ask me about Data stuff, Business Intelligence or...Gaming !
