@@ -31,12 +31,6 @@ Language and Tools
 <a target="_blank" href="https://www.tableau.com/" style="display: inline-block;"><img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" width="42" height="42" /></a>
 </p>
 
-Top repositories
-----------------
-
-<a href="https://github.com/cnoret/retail-data-analysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cnoret&repo=retail-data-analysis&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/cnoret/retail-data-analysis" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cnoret&repo=retail-data-analysis&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=cnoret&&style=flat-square" align="center" />
 </div>  
