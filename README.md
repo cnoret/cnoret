@@ -1,18 +1,42 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, I'm Christophe Noret.</h1>
-<br />
-<h3 >I'm a data science and python enthusiast from France !</h3>
+Hi 👋 My name is Christophe Noret.
+==================================
 
-``` 
- - 🔭 Former student data analyst @ DataScientest.com and @ Jedha !
- - 🌱 I'm currently learning Microsoft PowerBI
- - 👯 I'm looking to collaborate on projects
- - 💬 Ask me about Data stuff, Business Intelligence or...Gaming !
-```
-<h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
+I'm a data science and python enthusiast !
+------------------------------------------
+<p align="left">
+<a target="_blank" href="https://www.linkedin.com/in/christophenoret" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.kaggle.com/christophenoret" style="display: inline-block;"><img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" /></a></p>
 
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://powerbi.microsoft.com" target="_blank"> <img src="https://github.com/cnoret/Portfolio/blob/main/images/PowerBI.svg" alt="powerbi" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+After taking a break from my software development studies 10 years ago, I returned to my roots after 8 years as a sales consultant in retail.  
+I'm now studying and practicing Python/SQL, BI, Data Science & Engineering and more, with a view to switching careers to the data sector.
+
+*   🌍  I'm based in and around Angers, France
+*   🖥️  I am currently building my web portfolio to showcase my achievements. <!-- [soon.com](http://soon.com) --> 
+*   ✉️  You can send me an [e-mail](mailto:christophe.noret@gmail.com)
+*   🚀  I'm currently working on my Retail Data Analysis project <!-- [soon.com](http://soon.com) --> 
+*   🧠  I'm learning PowerBI and i'm constantly improving my Python !
+*   🤝  I'm open to collaborating on interesting open-source projects
+*   ⚡  Former student Data Analyst @ DataScientest and Data Science & Eng. @ Jedha !
+
+Language and Tools
+------------------
+
+<p>
+<a target="_blank" href="https://www.python.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://scikit-learn.org/" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://powerbi.microsoft.com/" style="display: inline-block;"><img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" width="42" height="42" /></a>
+<a target="_blank" href="https://www.tableau.com/" style="display: inline-block;"><img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" width="42" height="42" /></a>
+</p>
+
+Top repositories
+----------------
+
+<a href="https://github.com/cnoret/retail-data-analysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cnoret&repo=retail-data-analysis&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/cnoret/retail-data-analysis" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cnoret&repo=retail-data-analysis&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=cnoret&&style=flat-square" align="center" />
+</div>  
