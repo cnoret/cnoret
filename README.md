@@ -12,7 +12,7 @@ I'm now studying and practicing Python/SQL, BI, Data Science & Engineering and m
 
 *   🌍  I'm based in and around Angers, France
 *   🖥️  I am currently building my web portfolio to showcase my achievements. <!-- [soon.com](http://soon.com) --> 
-*   ✉️  You can send me an [e-mail](mailto:christophe.noret@gmail.com)
+*   ✉️  You can send me an [e-mail](mailto:contact@christophenoret.com)
 *   🚀  I'm currently working on my Retail Data Analysis project <!-- [soon.com](http://soon.com) --> 
 *   🧠  I'm learning PowerBI and i'm constantly improving my Python !
 *   🤝  I'm open to collaborating on interesting open-source projects
