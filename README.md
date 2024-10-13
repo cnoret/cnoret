@@ -1,28 +1,43 @@
-Hi 👋 My name is Christophe Noret.
-==================================
+<div align="center">
+<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=cnoret&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
 
-I'm a data science and python enthusiast !
-------------------------------------------
-<p align="left">
+<h1>Hi! 👋</h1>
+
+
+
+### 🐍 I'm [Christophe](https://www.linkedin.com/in/christophenoret/) and welcome to my GitHub profile! 🐧
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Analyst%2C;Evolving+to+Analytics+Engineer;+and+an+Open-Source+Enthousiat!)](https://git.io/typing-svg)
+
+<p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/christophenoret" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.kaggle.com/christophenoret" style="display: inline-block;"><img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" /></a></p>
 
-After taking a break from my software development studies 10 years ago, I returned to my roots after 8 years as a sales consultant in retail.  
+After taking a break from my software development studies 10 years ago, I returned to my roots after 8 years as a sales consultant in retail.
+
 I'm now studying and practicing Python/SQL, BI, Data Science & Engineering and more, with a view to switching careers to the data sector.
 
-*   🌍  I'm based in and around Angers, France
-*   🖥️  I am currently building my web portfolio to showcase my achievements. <!-- [soon.com](http://soon.com) --> 
-*   ✉️  You can send me an [e-mail](mailto:contact@christophenoret.com)
-*   🚀  I'm currently working on my Retail Data Analysis project <!-- [soon.com](http://soon.com) --> 
-*   🧠  I'm learning PowerBI and i'm constantly improving my Python !
-*   🤝  I'm open to collaborating on interesting open-source projects
-*   ⚡  Former student Data Analyst @ DataScientest and Data Science & Eng. @ Jedha !
+<br> 
 
-Language and Tools
-------------------
+**Fun facts:**
 
+👩‍🎓  Former student Data Analyst @ [DataScientest](https://datascientest.com/) and Data Science & Engineering @ [Jedha](https://www.jedha.co/) !
+  
+🧠  I'm learning PowerBI and i'm constantly improving my Python !
+    
+📈  Passionate about Modern Data Stacks, Data Engineering, AI and FOSS !
+
+🖥️  I am currently building my web portfolio to showcase my achievements. <!-- [soon.com](http://soon.com) --> 
+
+✉️  You can send me an [e-mail](mailto:contact@christophenoret.com)
+
+<br>
+
+## Languages and Tools
 <p>
+<div align="center">  
 <a target="_blank" href="https://www.python.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://www.docker.com/" style="display: inline-block;"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
 <a target="_blank" href="https://scikit-learn.org/" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
@@ -31,6 +46,10 @@ Language and Tools
 <a target="_blank" href="https://www.tableau.com/" style="display: inline-block;"><img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" width="42" height="42" /></a>
 </p>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=cnoret&&style=flat-square" align="center" />
-</div>  
+<!--
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+-->
+
