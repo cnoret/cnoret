@@ -3,11 +3,9 @@
 
 <h1>Hi! 👋</h1>
 
-
-
 ### 🐍 I'm [Christophe](https://www.linkedin.com/in/christophenoret/) and welcome to my GitHub profile! 🐧
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Analyst%2C;Evolving+to+Analytics+Engineer;+and+an+Open-Source+Enthousiat!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Analyst%2C;Evolving+to+Analytics+Engineer;+and+an+Open-Source+Enthousiast!)](https://git.io/typing-svg)
 
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/christophenoret" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
@@ -34,7 +32,7 @@ I'm now studying and practicing Python/SQL, BI, Data Science & Engineering and m
 <br>
 
 ## Languages and Tools
-<p>
+
 <div align="center">  
 <a target="_blank" href="https://www.python.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://www.docker.com/" style="display: inline-block;"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
@@ -44,7 +42,6 @@ I'm now studying and practicing Python/SQL, BI, Data Science & Engineering and m
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://powerbi.microsoft.com/" style="display: inline-block;"><img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" width="42" height="42" /></a>
 <a target="_blank" href="https://www.tableau.com/" style="display: inline-block;"><img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" width="42" height="42" /></a>
-</p>
 
 <!--
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
