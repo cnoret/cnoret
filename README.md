@@ -50,8 +50,10 @@ I'm now studying and practicing Python/SQL, BI, Data Science & Engineering and m
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 -->
 
+<br>
+
 ## Badges
 
-<!--START_BADGES:badges-->
-<!--END_BADGES:badges-->
-
+<div align="center">  
+<a target="_blank" href="https://www.credly.com/users/cnoret/" style="display: inline-block;"><img src="/images/badges/IBMdapc.png" alt="ibm-data-analyst-professional-certificate" width="120" height="120" /></a>
+<a target="_blank" href="https://www.credly.com/users/cnoret/" style="display: inline-block;"><img src="/images/badges/Googleaie.png" alt="google-ai-essentials" width="140" height="140" /></a>
