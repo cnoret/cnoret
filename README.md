@@ -52,5 +52,6 @@ I'm now studying and practicing Python/SQL, BI, Data Science & Engineering and m
 
 ## Badges
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<!--START_BADGES:badges-->
+<!--END_BADGES:badges-->
+
