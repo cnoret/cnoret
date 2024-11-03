@@ -15,3 +15,5 @@ jobs:
         uses: mikejoh/credly-badges@main
         with:
           CREDLY_USERNAME: cnoret
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
