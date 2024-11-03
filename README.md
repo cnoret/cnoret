@@ -11,7 +11,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/christophenoret" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.kaggle.com/christophenoret" style="display: inline-block;"><img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" /></a></p>
 
-After taking a break from my software development studies 10 years ago, I returned to my roots after 8 years as a sales consultant in retail.
+After taking a break from my software development studies 10 years ago, I returned to my roots after 8 years as a sales advisor in editorial retail.
 
 I'm now studying and practicing Python/SQL, BI, Data Science & Engineering and more, with a view to switching careers to the data sector.
 
