@@ -15,5 +15,3 @@ jobs:
         uses: mikejoh/credly-badges@main
         with:
           CREDLY_USERNAME: cnoret
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_MESSAGE: "Update Credly badges!"
