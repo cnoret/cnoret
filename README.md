@@ -52,7 +52,7 @@ I'm now studying and practicing Data Science & Engineering and more, with a view
 
 <br>
 
-## Badges
+## Earned Certifications
 
 <div align="center">  
 <a target="_blank" href="https://www.credly.com/badges/1694e533-411a-4f2d-b6fe-039c368c2337" style="display: inline-block;"><img src="/images/badges/IBMdapc.png" alt="ibm-data-analyst-professional-certificate" width="120" height="120" /></a>
