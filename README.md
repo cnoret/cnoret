@@ -27,7 +27,7 @@ I'm now studying and practicing Data Science & Engineering and more, with a view
 
 🖥️  I am currently building my web portfolio to showcase my achievements. <!-- [soon.com](http://soon.com) --> 
 
-✉️  You can send me an [e-mail](mailto:contact@christophenoret.com)
+✉️  You can send me an [e-mail](mailto:hello@christophenoret.com)
 
 <br>
 
