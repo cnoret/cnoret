@@ -5,7 +5,7 @@
 
 ### 🐍 I'm [Christophe](https://www.linkedin.com/in/christophenoret/) and welcome to my GitHub profile! 🐧
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Analyst%2C;Evolving+to+Analytics+Engineer;+and+an+Open-Source+Enthousiast!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=Aspiring+Data+Professional%2C;Trained+in+Data+Analysis%2C;Learning+Data+Science+%26+Engineering%2C;Ready+to+Start+My+Data+Career!)](https://git.io/typing-svg)
 
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/christophenoret" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
@@ -23,7 +23,7 @@ I'm now studying and practicing Python/SQL, BI, Data Science & Engineering and m
   
 🧠  I'm learning PowerBI and i'm constantly improving my Python !
     
-📈  Passionate about Modern Data Stacks, Data Engineering, AI and FOSS !
+📈  Passionate about Modern Data Stacks, Data Engineering/Science, AI and High-Tech !
 
 🖥️  I am currently building my web portfolio to showcase my achievements. <!-- [soon.com](http://soon.com) --> 
 
