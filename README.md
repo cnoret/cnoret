@@ -13,7 +13,7 @@
 
 After taking a break from my software development studies 10 years ago, I returned to my roots after 8 years as a sales advisor in editorial retail.
 
-I'm now studying and practicing Python/SQL, BI, Data Science & Engineering and more, with a view to switching careers to the data sector.
+I'm now studying and practicing Data Science & Engineering and more, with a view to switching careers to the data sector.
 
 <br> 
 
