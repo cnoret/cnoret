@@ -30,32 +30,32 @@ I'm now studying and practicing Data Science & Engineering and more, with a view
 
 ## 🛠️ Languages and Tools
 
-### 📌 Programming & Data Science
+### Programming & Data Science
 <p align="center">
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/></a>
   <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="42" height="42"/></a>
 </p>
 
-### 💾 Databases & Storage
+### Databases & Storage
 <p align="center">
   <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42"/></a>
   <a href="https://www.snowflake.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/276px-Snowflake_Logo.svg.png?20210330073721" alt="Snowflake" width="100" height="40"/></a>
   <a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="42" height="42"/></a>
 </p>
 
-### 🚀 Data Engineering
+### Data Engineering
 <p align="center">
   <a href="https://airflow.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="80" height="40"/></a>
   <a href="https://spark.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="70" height="60"/></a>
 </p>
 
-### 📊 BI & Data Visualization
+### BI & Data Visualization
 <p align="center">
   <a href="https://powerbi.microsoft.com/"><img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" width="42" height="42"/></a>
   <a href="https://www.tableau.com/"><img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" width="42" height="42"/></a>
 </p>
 
-### 🤖 MLOps
+### MLOps
 <p align="center">
   <a href="https://mlflow.org/"><img src="https://raw.githubusercontent.com/mlflow/mlflow/46016a18aa117695725822f43231d8c562295cc7/assets/logo.svg" alt="MLflow" width="80" height="42"/></a>
   <a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="42" height="42"/></a>
