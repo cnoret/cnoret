@@ -3,7 +3,7 @@
 
 <h1>Hi! 👋</h1>
 
-### 🐍 I'm [Christophe](https://www.linkedin.com/in/christophenoret/) and welcome to my GitHub profile! 🐧
+### 🐍 I'm [Christophe](https://www.linkedin.com/in/christophenoret/) and welcome to my GitHub profile!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=Aspiring+Data+Professional%2C;Trained+in+Data+Analysis%2C;Learning+Data+Science+%26+Engineering%2C;Ready+to+Start+My+Data+Career!)](https://git.io/typing-svg)
 
