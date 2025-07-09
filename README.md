@@ -55,7 +55,7 @@ I'm now studying and practicing Data Science & Engineering and more, with a view
   <a href="https://www.tableau.com/"><img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" width="42" height="42"/></a>
 </p>
 
-### MLOps
+### MLOps & DevOps
 <p align="center">
   <a href="https://mlflow.org/"><img src="https://raw.githubusercontent.com/mlflow/mlflow/46016a18aa117695725822f43231d8c562295cc7/assets/logo.svg" alt="MLflow" width="80" height="42"/></a>
   <a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="42" height="42"/></a>
