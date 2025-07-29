@@ -5,9 +5,6 @@
 
 ### 🐍 I'm [Christophe](https://www.linkedin.com/in/christophenoret/) and welcome to my GitHub profile!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=Aspiring+Data+Professional%2C;Trained+in+Data+Analysis%2C;Learning+Data+Science+%26+Engineering%2C;Ready+to+Start+My+Data+Career!)](https://git.io/typing-svg)
-
-
 After taking a break from my software development studies 10 years ago, I returned to my roots after 8 years in retail.
 
 I'm now studying and practicing Data Science & Engineering and more, with a view to switching careers to the data sector.
