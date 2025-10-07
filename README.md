@@ -13,7 +13,7 @@ I'm now studying and practicing Data Science & Engineering and more, with a view
 
 ## 🌟 Fun facts
 
-👩‍🎓  Former student Data Analyst @ [DataScientest](https://datascientest.com/) and Data Science & Engineering @ [Jedha](https://www.jedha.co/) !
+👩‍🎓  Former student Data Analyst @ [DataScientest](https://datascientest.com/) & Data Science and Engineering Fullstack & Lead @ [Jedha](https://www.jedha.co/) !
 
 📈  Passionate about Modern Data Stacks, Data Engineering/Science, AI and High-Tech !
 
