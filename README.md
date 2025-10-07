@@ -15,8 +15,6 @@ I'm now studying and practicing Data Science & Engineering and more, with a view
 
 👩‍🎓  Former student Data Analyst @ [DataScientest](https://datascientest.com/) and Data Science & Engineering @ [Jedha](https://www.jedha.co/) !
 
-🧠  I'm learning PowerBI and i'm constantly improving my Python !
-
 📈  Passionate about Modern Data Stacks, Data Engineering/Science, AI and High-Tech !
 
 🖥️  I am currently building my web portfolio to showcase my achievements. <!-- [soon.com](http://soon.com) --> 
