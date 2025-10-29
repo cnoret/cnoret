@@ -66,6 +66,6 @@ I'm now studying and practicing Data Science & Engineering and more, with a view
 
 ## 📧 How to reach me
 
-📧 [E-mail](mailto:hello@christophenoret.com) | 🎓 [LinkedIn](https://www.linkedin.com/in/christophenoret/) | 🎨 [Kaggle](https://www.kaggle.com/christophenoret)
+📧 [E-mail](mailto:hello@christophenoret.com) | 🎓 [LinkedIn](https://www.linkedin.com/in/christophenoret/)
 
 
