@@ -1,71 +1,61 @@
 <div align="center">
 <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=cnoret&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
 
-<h1>Hi! 👋</h1>
+  <h1>Hi! 👋</h1>
 
-### 🐍 I'm [Christophe](https://www.linkedin.com/in/christophenoret/) and welcome to my GitHub profile!
+  🐍 I'm <a href="https://www.linkedin.com/in/christophenoret/">Christophe</a> and welcome to my GitHub profile!  
+  <br/>
+  <em>Data Engineering & Analytics · Modern Data Stack · Production-first</em>
+</div>
 
-After taking a break from my software development studies 10 years ago, I returned to my roots after 8 years in retail.
+---
 
-I'm now studying and practicing Data Science & Engineering and more, with a view to switching careers to the data sector.
+## 🌟 About me
 
-<br>
+After taking a break from software development studies 10 years ago, I returned to tech after 8 years in retail.
 
-## 🌟 Fun facts
+I currently work as a **Freelance Teacher Assistant at Jedha AI School**, supporting learners on core topics in **data engineering and analytics**.
 
-👩‍🎓  Former student Data Analyst @ [DataScientest](https://datascientest.com/) & Data Science and Engineering Fullstack & Lead @ [Jedha](https://www.jedha.co/) !
+- 👨‍🏫 Freelance Teacher Assistant @ Jedha AI School  
+- 🎓 Former Data Analyst student @ DataScientest  
+- 🧠 Background in Data Engineering & Analytics (Fullstack & Lead – Jedha AI School)  
+- 📈 Passionate about **Data Engineering**, **Analytics**, **Modern Data Stacks**, and **production systems**  
+- 🖥️ Building my **web portfolio** with real-world data projects  
+- ✉️ Contact: [hello@christophenoret.com](mailto:hello@christophenoret.com)
+---
 
-📈  Passionate about Modern Data Stacks, Data Engineering/Science, AI and High-Tech !
+## 🛠️ Tech Stack
 
-🖥️  I am currently building my web portfolio to showcase my achievements. <!-- [soon.com](http://soon.com) --> 
+### 🏗️ Data Engineering & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-FFFFFF?style=flat-square&logo=snowflake&logoColor=blue)
 
-✉️  You can send me an [e-mail](mailto:hello@christophenoret.com)
+### 📊 Analytics & Data Processing
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 
-<br>
+### 📈 BI & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-EB7A19?style=flat-square)
 
-## 🛠️ Languages and Tools
+### ⚙️ Data Ops & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-000000?style=flat-square&logo=mlflow&logoColor=white)
 
-### Programming & Data Science
-<p align="center">
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="42" height="42"/></a>
-</p>
-
-### Databases & Storage
-<p align="center">
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42"/></a>
-  <a href="https://www.snowflake.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/276px-Snowflake_Logo.svg.png?20210330073721" alt="Snowflake" width="100" height="40"/></a>
-  <a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="42" height="42"/></a>
-</p>
-
-### Data Engineering
-<p align="center">
-  <a href="https://airflow.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="80" height="40"/></a>
-  <a href="https://spark.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="70" height="60"/></a>
-</p>
-
-### BI & Data Visualization
-<p align="center">
-  <a href="https://powerbi.microsoft.com/"><img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" width="42" height="42"/></a>
-  <a href="https://www.tableau.com/"><img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" width="42" height="42"/></a>
-</p>
-
-### MLOps & DevOps
-<p align="center">
-  <a href="https://mlflow.org/"><img src="https://raw.githubusercontent.com/mlflow/mlflow/46016a18aa117695725822f43231d8c562295cc7/assets/logo.svg" alt="MLflow" width="80" height="42"/></a>
-  <a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="42" height="42"/></a>
-  <a href="https://kubernetes.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="42" height="42"/></a>
-</p>
-
-<br>
+---
 
 ## 📝 Earned Certifications
 
-[![IBM Data Analyst](https://img.shields.io/badge/IBM-Data_Analyst-blue?style=flat&logo=IBM&logoColor=white)](https://www.credly.com/badges/1694e533-411a-4f2d-b6fe-039c368c2337)
-[![Google AI Essentials](https://img.shields.io/badge/Google-AI_Essentials-red?style=flat&logo=Google&logoColor=white)](https://www.credly.com/badges/5b7aa27b-5942-4ed9-90de-0a35d55929a5)
+[![IBM Data Analyst](https://img.shields.io/badge/IBM-Data_Analyst-blue?style=flat-square&logo=IBM&logoColor=white)](https://www.credly.com/badges/1694e533-411a-4f2d-b6fe-039c368c2337)
+[![Google AI Essentials](https://img.shields.io/badge/Google-AI_Essentials-red?style=flat-square&logo=Google&logoColor=white)](https://www.credly.com/badges/5b7aa27b-5942-4ed9-90de-0a35d55929a5)
+
+---
 
 ## 📧 How to reach me
 
-📧 [E-mail](mailto:hello@christophenoret.com) | 🎓 [LinkedIn](https://www.linkedin.com/in/christophenoret/)
-
-
+📧 [E-mail](mailto:hello@christophenoret.com)  
+🎓 [LinkedIn](https://www.linkedin.com/in/christophenoret/)
