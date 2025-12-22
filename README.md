@@ -52,10 +52,3 @@ I currently work as a **Freelance Teacher Assistant at Jedha AI School**, suppor
 
 [![IBM Data Analyst](https://img.shields.io/badge/IBM-Data_Analyst-blue?style=flat-square&logo=IBM&logoColor=white)](https://www.credly.com/badges/1694e533-411a-4f2d-b6fe-039c368c2337)
 [![Google AI Essentials](https://img.shields.io/badge/Google-AI_Essentials-red?style=flat-square&logo=Google&logoColor=white)](https://www.credly.com/badges/5b7aa27b-5942-4ed9-90de-0a35d55929a5)
-
----
-
-## 📧 How to reach me
-
-📧 [E-mail](mailto:hello@christophenoret.com)  
-🎓 [LinkedIn](https://www.linkedin.com/in/christophenoret/)
