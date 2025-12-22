@@ -12,7 +12,7 @@
 
 ## 🌟 About me
 
-After taking a break from software development studies 10 years ago, I returned to tech after 8 years in retail.
+After a break from software development studies and several years in retail, I returned to tech.
 
 I currently work as a **Freelance Teacher Assistant at Jedha AI School**, supporting learners on core topics in **data engineering and analytics**.
 
